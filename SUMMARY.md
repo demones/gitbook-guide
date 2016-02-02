@@ -1,6 +1,0 @@
-* [命令行操作](command/README.md)
- - [安装与运行](command/install.md)
- - [Gitbook命令行速览](command/gitbookcli.md)
-* [电子书输出](output/README.md)
-* [在线编辑](online/README.md)
-* [github 发布](github-pub/README.md)
