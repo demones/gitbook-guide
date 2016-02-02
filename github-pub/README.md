@@ -8,4 +8,9 @@
 3. 切换到分支 gh-pages 下 `git checkout gh-pages`
 4. 删除掉源代码，即 .md 格式的文件，当然也可以不删除
 5. 把之前生成的电子书复制到该目录下
-6. 执行命令
+6. 执行命令提交到 github 分支 gh-pages 下
+```
+git add -A
+git commit -m "commit explain"
+git push --set-upstream origin gh-pages
+```
