@@ -7,3 +7,13 @@
 ## [tbfed-theme](https://plugins.gitbook.com/plugin/tbfed-theme)
 
 该主题皮肤不错，可以参考
+
+## [gitbook-plugin-prism](https://github.com/gaearon/gitbook-plugin-prism)
+
+基于 [Prism](http://prismjs.com/) 代码高亮插件
+
+```json
+{
+  "plugins": ["prism", "-highlight"]
+}
+```

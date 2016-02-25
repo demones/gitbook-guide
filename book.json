@@ -9,7 +9,9 @@
       "include-codeblock",
       "tbfed-pagefooter",
       "toggle-chapters",
-      "sectionx"
+      "sectionx",
+      "prism",
+      "-highlight"
   ],
   "pluginsConfig": {
       "disqus": {
