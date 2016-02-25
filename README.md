@@ -15,4 +15,4 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Ma
 
 ## 参考文章
 * http://dockerpool.com/static/books/gitbook_cn/index.html
-* markdown 在线编辑器 https://www.zybuluo.com
+* [markdown 在线编辑器](https://www.zybuluo.com)

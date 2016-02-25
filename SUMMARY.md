@@ -4,3 +4,5 @@
 * [电子书输出](output/README.md)
 * [在线编辑](online/README.md)
 * [github 发布](github-pub/README.md)
+* [gitbook 配置与插件](setting/README.md)
+* [gitbook theme](theme/README.md)
